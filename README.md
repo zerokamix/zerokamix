@@ -1,52 +1,34 @@
-<h2>Hey there! ZEROKAMIX.</h2>
-<h3>👨🏻‍💻 &nbsp;About Me</h3>
-- 🌱 &nbsp; Learning more about Virtualization, API's and AI. - ✍️ &nbsp;
-Pursuing eSports and Development.
-<h3>🛠 &nbsp;Tech Stack</h3>
-- 💻 &nbsp;
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Swift](https://img.shields.io/badge/-swift-333333?style=flat&logo=swift&logoColor=007396)
-- 🌐 &nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-- 🛢 &nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![Batch](https://img.shields.io/badge/-batch-333333?style=flat&logo=batch) - 🔧
-&nbsp; ![Visual Studio
-Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-<h3>👥 &nbsp;Partner</h3>
-We need to thank our partner [BungeeCloud](https://bungeecloud.org/).
-BungeeCloud provides us with the necessary hardware (vServer & Webspaces).
-SecurityAPI is hosted by a BungeeCloud VPS and guarantees 99% uptime, stability
-and a great security. We can only recommend BungeeCloud has a hosting provider
-(advertisement). ## <br />
-<a href="https://github.com/ookamicodes">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=ookamicodes&theme=buefy&show_icons=true"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ookamicodes&theme=buefy&layout=compact"
-  />
-</a>
-<br />
-<h3>🤝🏻 &nbsp;Connect with Me</h3>
-<p align="center">
-  <a href="https://twitter.com/ookamicodes"
-    ><img
-      alt="Twitter"
-      src="https://img.shields.io/badge/Twitter-ookamicodes-black?style=flat-square&logo=twitter"
-  /></a>
-  <a href="https://discord.gg/FGzCdtP"
-    ><img
-      alt="Discord"
-      src="https://img.shields.io/badge/Discord-ookamicodes server-black?style=flat-square&logo=discord"
-  /></a>
-</p>
+<h3 align="center">
+  Welcome to ZEROKAMIX profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+---
+<div align="center">
+  
+# 💫About Me :
+🔭 Currently working for a upcoming Blockchain Startup
+  
+🌱 I’m currently learning : Solidity
+
+
+# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+  
+  ![Nextjs](https://img.shields.io/badge/nextjs-%23E34F26.svg?style=for-the-badge&logo=nextjs&logoColor=white)
+  ![Solidty](https://img.shields.io/badge/solidty-%23E34F26.svg?style=for-the-badge&logo=solidty&logoColor=white)
+  ![Nodejs](https://img.shields.io/badge/nodejs-%23E34F26.svg?style=for-the-badge&logo=nodejs&logoColor=white)
+  ![Ganach](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/css-%23E34F26.svg?style=for-the-badge&logo=css&logoColor=white)
+  ![JS](https://img.shields.io/badge/js-%23E34F26.svg?style=for-the-badge&logo=js&logoColor=white)
+  
+  
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=zerokamix&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zerokamix&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zerokamix&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=zerokamix&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
