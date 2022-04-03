@@ -13,8 +13,8 @@
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
   
-  ![Solidty](https://img.shields.io/badge/Solidty-%23E34F26.svg?style=for-the-badge&logo=Solidty&logoColor=white)
-  ![Ganach](https://img.shields.io/badge/Ganach-%23E34F26.svg?style=for-the-badge&logo=Ganach&logoColor=white)
+  ![Solidity](https://img.shields.io/badge/Solidity-%23E34F26.svg?style=for-the-badge&logo=Solidity&logoColor=white)
+  ![Ganache](https://img.shields.io/badge/Ganache-%23E34F26.svg?style=for-the-badge&logo=Ganache&logoColor=white)
   [Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
