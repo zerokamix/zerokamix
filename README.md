@@ -19,6 +19,7 @@
   ![NodeJS](https://img.shields.io/badge/node.js-%23000000?style=for-the-badge&logo=node.js&logoColor=white)
   ![Moralis](https://img.shields.io/badge/moralis-%23000000.svg?style=for-the-badge&logo=moralis&logoColor=white) 
   ![Web3](https://img.shields.io/badge/web3.js-%23000000.svg?style=for-the-badge&logo=web3.js&logoColor=white) 
+  ![Gunjs](https://img.shields.io/badge/gun.js-%23000000.svg?style=for-the-badge&logo=gun.js&logoColor=white) 
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
   ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 
