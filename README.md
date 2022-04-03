@@ -2,10 +2,9 @@
   Welcome to ZEROKAMIX profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
----
+
 <div align="center">
-  
-# 💫About Me :
+# ♟About Me :
 🔭 Currently working for a upcoming Blockchain Startup
   
 🌱 I’m currently learning : Solidity
