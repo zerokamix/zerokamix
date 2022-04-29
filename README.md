@@ -9,9 +9,9 @@
   
 🧪 Founder of OverVerse Labs 🧪
   
-🌱 I’m currently learning : Solidity
+🌱 I’m currently learning : Solidity 🌱
   
-👑 Blockchain, Fullstack Developer
+👑 Blockchain, Fullstack Developer 👑
   
 💸 Crypto & NFT Trading
 https://opensea.io/zerokamix
