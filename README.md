@@ -7,7 +7,7 @@
   
 # 🐼About Me :
   
-🔭 OverVerse Labs 🧪
+🧪 Founder of OverVerse Labs 🧪
   
 🌱 I’m currently learning : Solidity
   
