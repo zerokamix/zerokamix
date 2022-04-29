@@ -7,7 +7,7 @@
   
 # 🐼About Me :
   
-🔭 Currently working for a upcoming Blockchain Startup
+🔭 OverVerse Labs 🧪
   
 🌱 I’m currently learning : Solidity
   
