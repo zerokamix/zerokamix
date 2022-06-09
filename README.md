@@ -11,12 +11,12 @@
   
 🌱 I’m currently learning : Solidity 🌱
   
-👑 Blockchain, Fullstack Developer 👑
+👑 Cybersecurity Researcher, Blockchain Developer, Fullstack Developer 👑
   
 💸 Crypto & NFT Trading
 https://opensea.io/zerokamix 💸
 
-# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+# 💻Tech Stack
   
   ![Solidity](https://img.shields.io/badge/Solidity-%23000000.svg?style=for-the-badge&logo=Solidity&logoColor=white)
   ![Ganache](https://img.shields.io/badge/Ganache-%23000000.svg?style=for-the-badge&logo=Ganache&logoColor=white)
