@@ -16,6 +16,8 @@
 💸 Crypto & NFT Trading
 https://opensea.io/zerokamix 💸
 
+Most Repos are privat...
+  
 # 💻Tech Stack
   
   ![Solidity](https://img.shields.io/badge/Solidity-%23000000.svg?style=for-the-badge&logo=Solidity&logoColor=white)
