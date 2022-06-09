@@ -9,8 +9,6 @@
   
 🧪 Founder of OverVerse Labs 🧪
   
-🌱 I’m currently learning : Solidity 🌱
-  
 👑 Cybersecurity Researcher, Blockchain Developer, Fullstack Developer 👑
   
 💸 Crypto & NFT Trading
