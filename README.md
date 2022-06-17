@@ -7,8 +7,7 @@
   
 # 🐼About Me :
   
-🧪 Founder of OverVerse Labs 🧪
-  
+
 👑 Cybersecurity Researcher, Blockchain Developer, Fullstack Developer 👑
   
 💸 Crypto & NFT Trading
